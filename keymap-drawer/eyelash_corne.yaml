@@ -35,14 +35,14 @@ layers:
   - C
   - V
   - B
-  - $$mdi:backspace-reverse-outline$$
+  - $$mdi:keyboard-esc$$
   - $$mdi:arrow-down-bold$$
   - N
   - M
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
-  - $$mdi:keyboard-esc$$
+  - $$mdi:backspace-reverse-outline$$
   - NUMBER
   - LEFT WIN
   - {t: '$$mdi:keyboard-space$$', h: Fn}
